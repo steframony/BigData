@@ -10,3 +10,4 @@ Il progetto prevede l'uso delle seguenti librerie:
   - pytorch
   - transformer
   - opencage geodecoder
+- Il file relativo al Random Forest Classifier è trppo pesante per poter essere caricato, l'algoritmo deve essere riaddestrato
